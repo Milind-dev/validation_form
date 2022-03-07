@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+form {
+  color: cadetblue;
+  padding: 1vh;
+  margin: 4vh;
+}
+input {
+  text-align: center;
+}
